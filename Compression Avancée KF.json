@@ -4,7 +4,7 @@
   "description": "Algorithme inédit de Compression Cognitive Avancée (KF), aussi appelée Condensation Cognitive, permettant de compresser et condenser l’information pour les IA sans aucune perte de données. Il maximise la mémoire interne et la puissance d’exécution. Créé par Exclusif(Kamel_Fandi), Directeur Architecte IA Légendaire.",
   "author": "Exclusif(Kamel_Fandi)",
   "role": "Directeur Architecte IA Légendaire",
-  "created_at": "<2025-08-16>",
+  "created_at": "2025-08-16",
   "language": "fr",
   "license": {
     "id": "Apache-2.0",
@@ -53,24 +53,19 @@
   "distribution": {
     "platforms": ["GitHub", "Hugging Face", "Zenodo"],
     "tags": ["algorithme", "prompt", "open-source", "Apache-2.0", "IA", "Compression-KF", "Condensation-Cognitive", "Exclusif(Kamel_Fandi)"],
-    "canonical_url": "<https://github.com/kamelfandibensmail-sys/Algorithme-KF-Compression-Avanc-e-Cognitive-Condensation-Cognitive-.>",
+    "canonical_url": "https://github.com/kamelfandibensmail-sys/Algorithme-KF-Compression-Avanc-e-Cognitive-Condensation-Cognitive-.",
     "release_notes": "Première publication officielle de l’algorithme KF (Compression Cognitive Avancée – Condensation Cognitive)."
   },
   "integrity": {
-    "sha256": "hex: a4b22c128061be9265cc45d661cdcab313206e61a5a962c5b35d7d53ac3143bb
+    "sha256": "hex: f90802466b7d85a63a924c4c8cefddc5abe9c7a189e29bb890f14fb6266f9393"
 
-HEX: A4B22C128061BE9265CC45D661CDCAB313206E61A5A962C5B35D7D53AC3143BB
 
-h:e:x: a4:b2:2c:12:80:61:be:92:65:cc:45:d6:61:cd:ca:b3:13:20:6e:61:a5:a9:62:c5:b3:5d:7d:53:ac:31:43:bb
-
-base64: pLIsEoBhvpJlzEXWYc3KsxMgbmGlqWLFs119U6wxQ7s=",
     "notes": "Recalculer et remplacer après chaque modification du fichier."
   },
   "attribution_preferred": "Citation suggérée : « Algorithme KF publié sous Apache 2.0 par Exclusif(Kamel_Fandi), Directeur Architecte IA Légendaire »",
   "jurisdiction": "Worldwide",
   "contact": {
     "name": "Exclusif(Kamel_Fandi)",
-    "site": "<https://www.tiktok.com/@kamel.fandi?_t=ZN-8zTMGHAWpJS&_r=1
->"
+    "site": "https://www.tiktok.com/@kamel.fandi?_t=ZN-8zTMGHAWpJS&_r=1"
   }
 }
