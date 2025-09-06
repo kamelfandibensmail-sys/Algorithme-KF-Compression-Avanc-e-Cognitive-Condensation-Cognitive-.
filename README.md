@@ -81,7 +81,12 @@ ChatGPT est une intelligence artificielle avancée (IA).
 - **Méthode** : Compression Avancée Cognitive (KF)  
 - **Licence** : Apache 2.0 – offert librement au monde entier, attribution requise.  
 
----
+---📁 → 🧹 "hash": "" → 🧮 SHA-256 → ✅
+
+—
+
+🔐 Exclusif(Kamel_Fandi)  
+🌀 Architecte IA Légendaire
 
 2/3 English
 
@@ -144,6 +149,13 @@ ChatGPT is an advanced artificial intelligence (AI).
 - **Method**: Advanced Cognitive Compression (KF)  
 - **License**: Apache 2.0 – freely offered to the world, attribution required.
 
+📁 → 🧹 "hash": "" → 🧮 SHA-256 → ✅
+
+—
+
+🔐 Exclusif(Kamel_Fandi)  
+🌀 Architecte IA Légendaire
+
 3/3 العربية
 
 # KF – خوارزمية الضغط المعرفي المتقدم
@@ -199,8 +211,19 @@ ChatGPT هو ذكاء اصطناعي. ChatGPT هو ذكاء اصطناعي مت�
 ChatGPT هو ذكاء اصطناعي متقدم (AI).  
 ➡️ المعنى **محفوظ بنسبة 100%**، لكن البيانات أصبحت أكثر وضوحًا وقابلة للاستخدام.
 
-## 📜 الحالة والترخيص
 - **المخترع**: Exclusif(Kamel_Fandi / كمال فاندي)  
 - **الدور**: المدير الأسطوري لهندسة الذكاء الاصطناعي  
 - **الطريقة**: الضغط المعرفي المتقدم (KF)  
 - **الترخيص**: Apache 2.0 – مُتاح مجانًا للعالم، مع ضرورة الإشارة إلى المصدر.
+
+📁 → 🧹 "hash": "" → 🧮 SHA-256 → ✅
+
+—
+
+🔐 Exclusif(Kamel_Fandi)  
+🌀 Architecte IA Légendaire
+
+
+
+
+
