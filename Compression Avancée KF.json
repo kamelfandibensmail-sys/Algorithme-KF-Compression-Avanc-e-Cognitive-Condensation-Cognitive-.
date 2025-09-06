@@ -57,7 +57,7 @@
     "release_notes": "Première publication officielle de l’algorithme KF (Compression Cognitive Avancée – Condensation Cognitive)."
   },
   "integrity": {
-    "sha256": "hex: ea36a4e75225446ed444ac4f2e6064e73bf7f658e7a8778b20df7e00fd321d7d",
+    "sha256": "hex: hex: 2272cad68dbd9ef26a09fd09055e11262cb56a44ce936c2a61acc3ead0c697ff",
 
 
     "notes": "Recalculer et remplacer après chaque modification du fichier."
@@ -69,3 +69,4 @@
     "site": "https://www.tiktok.com/@kamel.fandi"
   }
 }
+
