@@ -57,7 +57,7 @@
     "release_notes": "Première publication officielle de l’algorithme KF (Compression Cognitive Avancée – Condensation Cognitive)."
   },
   "integrity": {
-    "sha256": "hex: hex: 2272cad68dbd9ef26a09fd09055e11262cb56a44ce936c2a61acc3ead0c697ff",
+    "sha256": "hex: 2272cad68dbd9ef26a09fd09055e11262cb56a44ce936c2a61acc3ead0c697ff",
 
 
     "notes": "Recalculer et remplacer après chaque modification du fichier."
