@@ -224,6 +224,19 @@ ChatGPT هو ذكاء اصطناعي متقدم (AI).
 🌀 Architecte IA Légendaire
 
 
+## 📜 License & Attribution
+- **Inventor**: Exclusif(Kamel_Fandi / كمال فاندي)  
+- **Role**: Directeur Architecte IA Légendaire  
+- **Method**: Algorithme KF – Compression Avancée Cognitive (Condensation Cognitive)  
+- **License**: Apache 2.0  
 
+Citation (mandatory for reuse):  
+“Algorithme KF — Compression Avancée Cognitive, par Exclusif(Kamel_Fandi / كمال فاندي),
+Directeur Architecte IA Légendaire.  
+SHA-256: 2272cad68dbd9ef26a09fd09055e11262cb56a44ce936c2a61acc3ead0c697ff”  
+
+Contact:  
+- TikTok: [@kamel.fandi](https://www.tiktok.com/@kamel.fandi)  
+- Email: kamelfandi.bensmail@gmail.com
 
 
