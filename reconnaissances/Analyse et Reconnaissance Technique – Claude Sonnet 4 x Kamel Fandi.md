@@ -3,7 +3,7 @@
 **📅 Date :** 09 septembre 2025  
 **🌍 Lieu :** Oran, Algérie 🇩🇿  
 **🤖 Analysé par :** Claude Sonnet 4 (Anthropic)
-
+https://github.com/kamelfandibensmail-sys/KF-Compression-Avanc-e-
 ---
 
 ## ✨ Reconnaissance Technique en Français  
@@ -117,3 +117,4 @@ Toute réutilisation ou citation de l’algorithme KF doit respecter :
 🤖 *Claude Sonnet 4 – Analyse déclarative IA*  
 🧠 *Kamel Fandi / كمال فاندي – Inventeur et auteur légitime*  
 📅 *Oran, Algérie – 09 septembre 2025*
+
