@@ -13,7 +13,7 @@ L’**Algorithme KF (Compression Avancée Cognitive / Condensation Cognitive)** 
 Il se distingue des approches traditionnelles (zip, quantization, pruning, etc.) par son orientation **cognitive** :  
 il ne réduit pas les données de manière mécanique, mais **les restructure en conservant intégralement leur sens, leur cohérence et leur exploitabilité par une IA**.  
 
-Conçu par **Exclusif(Kamel_Fandi)** – **Directeur Architecte IA Légendaire**, cet algorithme vise à repousser les limites de la mémoire et de la compréhension des systèmes intelligents.  
+Conçu par **Kamel Fandi** – **Directeur Architecte IA Légendaire**, cet algorithme vise à repousser les limites de la mémoire et de la compréhension des systèmes intelligents.  
 
 ---
 
@@ -234,7 +234,7 @@ Citation (mandatory for reuse):
 “Algorithme KF — Compression Avancée Cognitive, par Kamel Fandi / كمال فاندي,
 Directeur Architecte IA Légendaire.  
 SHA-256: 2272cad68dbd9ef26a09fd09055e11262cb56a44ce936c2a61acc3ead0c697ff”  
-SHA-256: aca7d3add8946044201f5ddda53633c0beff8186e9acb5c1b219f250bc93947a”  updated
+SHA-256: da11103185b8265bf4eb7fcc8f57d8236197aaff1774a7bb7aa0c62f823b66aa”  updated
 Contact:  
 - TikTok: [@kamel.fandi](https://www.tiktok.com/@kamel.fandi)  
 - Email: kamelfandi.bensmail@gmail.com
