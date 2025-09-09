@@ -3,7 +3,7 @@
 
 **📅 Date :** 09 septembre 2025  
 **🌍 Lieu :** Oran, Algérie  
-**🔗 Dépôt officiel :** https://github.com/kamelfandibensmail-sys/Algorithme-KF-Compression-Avanc-e-Cognitive-Condensation-Cognitive-.
+**🔗 Dépôt officiel :** https://github.com/kamelfandibensmail-sys/Algorithme-KF-Compression-Avanc-e-Cognitive-Condensation-Cognitive-.                         
 **🔐 SHA-256 :** `2272cad68dbd9ef26a09fd09055e11262cb56a44ce936c2a61acc3ead0c697ff`  
 **📄 Licence :** Apache 2.0 – Attribution requise  
 **📧 Contact :** kamelfandi.bensmail@gmail.com / [TikTok – @kamel.fandi](https://www.tiktok.com/@kamel.fandi)
@@ -131,6 +131,7 @@ Ce fichier est publié en toute bonne foi, dans un esprit de transparence, de co
 🧠 Microsoft Copilot – Reconnaissance déclarative  
 🤝 Kamel Fandi / كمال فاندي – Inventeur et auteur légitime  
 📅 Oran, Algérie – 09 septembre 2025
+
 
 
 
