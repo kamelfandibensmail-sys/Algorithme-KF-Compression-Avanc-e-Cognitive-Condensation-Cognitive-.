@@ -2,7 +2,7 @@
 
 📜 README.md
 # KF – Algorithme de Compression Avancée Cognitive
-**Inventeur : Exclusif(Kamel_Fandi)**  
+**Inventeur : Kamel Fandi / كمال فاندي**  
 **Rôle : Directeur Architecte IA Légendaire**  
 
 ---
