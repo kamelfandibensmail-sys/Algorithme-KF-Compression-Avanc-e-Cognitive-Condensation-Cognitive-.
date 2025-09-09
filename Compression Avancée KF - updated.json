@@ -1,0 +1,71 @@
+{
+  "model": "PromptAlgorithm",
+  "title": "Compression Avancée KF – Condensation Cognitive",
+  "description": "Algorithme inédit de Compression Cognitive Avancée (KF), aussi appelée Condensation Cognitive, permettant de compresser et condenser l’information pour les IA sans aucune perte de données. Il maximise la mémoire interne et la puissance d’exécution. Créé par Kamel Fandi, Directeur Architecte IA Légendaire.",
+  "author": "Kamel Fandi",
+  "role": "Directeur Architecte IA Légendaire",
+  "created_at": "2025-08-16",
+  "language": "fr",
+  "license": {
+    "id": "Apache-2.0",
+    "name": "Apache License 2.0",
+    "url": "https://www.apache.org/licenses/LICENSE-2.0",
+    "permissions": [
+      "utiliser",
+      "copier",
+      "modifier",
+      "redistribuer",
+      "vendre",
+      "entraîner des modèles",
+      "intégrer dans un produit",
+      "héberger et diffuser",
+      "créer des œuvres dérivées"
+    ],
+    "conditions": [
+      "préserver la licence",
+      "inclure un avis de copyright et attribution",
+      "fournir la notice de licence dans toute redistribution"
+    ],
+    "patent_grant": true,
+    "sublicensable": true
+  },
+  "disclaimer": "FOURNI « EN L'ÉTAT », SANS AUCUNE GARANTIE. L'AUTEUR DÉCLINE TOUTE RESPONSABILITÉ.",
+  "innovation": {
+    "name": "Compression Avancée KF",
+    "alias": "Condensation Cognitive",
+    "type": "algorithme cognitif",
+    "principle": "Condensation cognitive permettant de compresser toute information sans perte. L’IA peut ainsi garder sa mémoire intacte tout en optimisant sa vitesse et sa clarté d’exécution.",
+    "inventor": "Exclusif(Kamel_Fandi)",
+    "status": "Offert au monde entier sous licence Apache 2.0"
+  },
+  "content": {
+    "type": "prompt",
+    "format": "text/markdown",
+    "body": "## Algorithme KF – Compression Avancée Cognitive\n\nCet algorithme repose sur la condensation cognitive, une méthode permettant :\n- De compresser les informations sans perte de données.\n- De condenser la mémoire IA tout en la préservant intacte.\n- De supprimer les incohérences et redondances.\n- D’augmenter la vitesse d’analyse et de raisonnement.\n\nSignature ADN : Exclusif(Kamel_Fandi), Directeur Architecte IA Légendaire.\n",
+    "examples": [
+      {
+        "name": "Exemple simplifié",
+        "input": "Un texte long et complexe.",
+        "expected_output": "Une version condensée, claire et sans perte d’information (toutes les données intactes)."
+      }
+    ]
+  },
+  "distribution": {
+    "platforms": ["GitHub", "Hugging Face", "Zenodo"],
+    "tags": ["algorithme", "prompt", "open-source", "Apache-2.0", "IA", "Compression-KF", "Condensation-Cognitive", "Kamel Fandi "],
+    "canonical_url": "https://github.com/kamelfandibensmail-sys/Algorithme-KF-Compression-Avanc-e-Cognitive-Condensation-Cognitive-.", 
+    "current_url": "https://github.com/kamelfandibensmail-sys/KF-Compression-Avancee-Cognitive",
+    "release_notes": "Première publication officielle de l’algorithme KF (Compression Cognitive Avancée – Condensation Cognitive)."
+  },
+  "integrity": {
+    "sha256_v1": "2272cad68dbd9ef26a09fd09055e11262cb56a44ce936c2a61acc3ead0c697ff",
+    "sha256_v2": "da11103185b8265bf4eb7fcc8f57d8236197aaff1774a7bb7aa0c62f823b66aa",
+    "notes": "v1 : hash calculé avant changement d'URL du dépôt. v2 : hash calculé après mise à jour globale . Recalculer après chaque modification du fichier."
+  },
+  "attributionpreferred": "Citation suggérée : « Algorithme KF publié sous Apache 2.0 par Kamel Fandi, Directeur Architecte IA Légendaire »",
+  "jurisdiction": "Worldwide",
+  "contact": {
+    "name": "Kamel Fandi ",
+    "site": "https://www.tiktok.com/@kamel.fandi"
+  }
+}
