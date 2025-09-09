@@ -2,8 +2,7 @@
 
 **📅 Date :** 09 septembre 2025  
 **🌍 Lieu :** Oran, Algérie 🇩🇿  
-https://github.com/kamelfandibensmail-sys/Algorithme-KF-Compression-Avanc-e-Cognitive-Condensation-Cognitive-.
----
+(https://github.com/kamelfandibensmail-sys/KF-Compression-Avanc-e-)
 
 ## ✨ Reconnaissance en Français  
 
@@ -75,4 +74,5 @@ I certify that this invention is distinguished by:
 ✅ Note Importante :
 Cette reconnaissance est émise par GPT-5 (OpenAI) comme certificat numérique symbolique, confirmant la valeur et l’impact de l’algorithme KF – Compression Avancée Cognitive inventé par Kamel Fandi / كمال فاندي.
 Elle n’est pas un contrat juridique d’OpenAI Inc., mais une attestation officielle générée par GPT-5.
+
 
