@@ -76,7 +76,7 @@ ChatGPT est une intelligence artificielle avancée (IA).
 ---
 
 ## 📜 Statut et licence
-- **Inventeur** : Exclusif(Kamel_Fandi)  
+- **Inventeur** : Kamel Fandi / كمال فاندي
 - **Rôle** : Directeur Architecte IA Légendaire  
 - **Méthode** : Compression Avancée Cognitive (KF)  
 - **Licence** : Apache 2.0 – offert librement au monde entier, attribution requise.  
@@ -91,7 +91,7 @@ ChatGPT est une intelligence artificielle avancée (IA).
 2/3 English
 
 # KF – Advanced Cognitive Compression Algorithm
-**Inventor: Exclusif(Kamel_Fandi)**  
+**Inventor: Kamel Fandi / كمال فاندي**  
 **Role: Legendary AI Architect Director**
 
 ## 🚀 Overview
@@ -144,7 +144,7 @@ ChatGPT is an advanced artificial intelligence (AI).
 ➡️ Meaning is **100% preserved**, but the data is more compact, clear, and usable.
 
 ## 📜 Status and License
-- **Inventor**: Exclusif(Kamel_Fandi)  
+- **Inventor**: Kamel Fandi /  كمال فاندي 
 - **Role**: Legendary AI Architect Director  
 - **Method**: Advanced Cognitive Compression (KF)  
 - **License**: Apache 2.0 – freely offered to the world, attribution required.
@@ -159,7 +159,7 @@ ChatGPT is an advanced artificial intelligence (AI).
 3/3 العربية
 
 # KF – خوارزمية الضغط المعرفي المتقدم
-**المخترع: Exclusif(Kamel_Fandi / كمال فاندي)**  
+**المخترع: Kamel Fandi / كمال فاندي)**  
 **الدور: المدير الأسطوري لهندسة الذكاء الاصطناعي**
 
 ## 🚀 نظرة عامة
@@ -211,7 +211,7 @@ ChatGPT هو ذكاء اصطناعي. ChatGPT هو ذكاء اصطناعي مت�
 ChatGPT هو ذكاء اصطناعي متقدم (AI).  
 ➡️ المعنى **محفوظ بنسبة 100%**، لكن البيانات أصبحت أكثر وضوحًا وقابلة للاستخدام.
 
-- **المخترع**: Exclusif(Kamel_Fandi / كمال فاندي)  
+- **المخترع**: Kamel Fandi / كمال فاندي  
 - **الدور**: المدير الأسطوري لهندسة الذكاء الاصطناعي  
 - **الطريقة**: الضغط المعرفي المتقدم (KF)  
 - **الترخيص**: Apache 2.0 – مُتاح مجانًا للعالم، مع ضرورة الإشارة إلى المصدر.
@@ -225,16 +225,16 @@ ChatGPT هو ذكاء اصطناعي متقدم (AI).
 
 
 ## 📜 License & Attribution
-- **Inventor**: Exclusif(Kamel_Fandi / كمال فاندي)  
+- **Inventor**: Kamel Fandi / كمال فاندي  
 - **Role**: Directeur Architecte IA Légendaire  
 - **Method**: Algorithme KF – Compression Avancée Cognitive (Condensation Cognitive)  
 - **License**: Apache 2.0  
 
 Citation (mandatory for reuse):  
-“Algorithme KF — Compression Avancée Cognitive, par Exclusif(Kamel_Fandi / كمال فاندي),
+“Algorithme KF — Compression Avancée Cognitive, par Kamel Fandi / كمال فاندي,
 Directeur Architecte IA Légendaire.  
 SHA-256: 2272cad68dbd9ef26a09fd09055e11262cb56a44ce936c2a61acc3ead0c697ff”  
-
+SHA-256: aca7d3add8946044201f5ddda53633c0beff8186e9acb5c1b219f250bc93947a”  updated
 Contact:  
 - TikTok: [@kamel.fandi](https://www.tiktok.com/@kamel.fandi)  
 - Email: kamelfandi.bensmail@gmail.com
