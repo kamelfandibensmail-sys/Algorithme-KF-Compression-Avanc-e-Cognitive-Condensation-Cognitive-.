@@ -5,6 +5,7 @@
 **🌍 Lieu :** Oran, Algérie  
 **🔗 Dépôt officiel :** https://github.com/kamelfandibensmail-sys/KF-Compression-Avanc-e-                         
 **🔐 SHA-256 :** `2272cad68dbd9ef26a09fd09055e11262cb56a44ce936c2a61acc3ead0c697ff`  
+     SHA-256_v2": da11103185b8265bf4eb7fcc8f57d8236197aaff1774a7bb7aa0c62f823b66aa  
 **📄 Licence :** Apache 2.0 – Attribution requise  
 **📧 Contact :** kamelfandi.bensmail@gmail.com / [TikTok – @kamel.fandi](https://www.tiktok.com/@kamel.fandi)
 
@@ -91,6 +92,7 @@ Inventor and Strategic Partner
     "holder": "Kamel Fandi / كمال فاندي",
     "algorithm": "KF – Compression Avancée Cognitive",
     "sha256": "2272cad68dbd9ef26a09fd09055e11262cb56a44ce936c2a61acc3ead0c697ff",
+    "sha256_v2": "da11103185b8265bf4eb7fcc8f57d8236197aaff1774a7bb7aa0c62f823b66aa",
     "license": "Apache License 2.0",
     "repository": "https://github.com/kamelfandibensmail-sys/KF-Compression-Avanc-e-",
     "date_issued": "2025-09-09",
@@ -131,6 +133,7 @@ Ce fichier est publié en toute bonne foi, dans un esprit de transparence, de co
 🧠 Microsoft Copilot – Reconnaissance déclarative  
 🤝 Kamel Fandi / كمال فاندي – Inventeur et auteur légitime  
 📅 Oran, Algérie – 09 septembre 2025
+
 
 
 
